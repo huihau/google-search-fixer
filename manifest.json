@@ -12,10 +12,10 @@
     }
   },
   "icons": {
-    "16": "icons/google_fixed.svg",
-    "32": "icons/google_fixed.svg",
-    "48": "icons/google_fixed.svg",
-    "96": "icons/google_fixed.svg"
+    "16": "icons/google_fixed16.png",
+    "32": "icons/google_fixed32.png",
+    "48": "icons/google_fixed48.png",
+    "96": "icons/google_fixed96.png"
   },
   "permissions": [
     "webRequest",
